@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">UIprogram</string>
+    <string name="welcome">Welcome!</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="id_identification">ID identification:</string>
+    <string name="second_tab">second tab</string>
+    <string name="choose_the_font_size">Choose the font size</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="swim">Swim</string>
+    <string name="soccer">Soccer</string>
+    <string name="games">Games</string>
+    <string name="dance">Dance</string>
+    <string name="sing">Sing</string>
+    <string name="read">Read</string>
+    <string name="enlarge">enlarge</string>
+    <string name="color">Color</string>
+    <string name="disable_color">Disable color</string>
+    <string name="medium">Medium</string>
+    <string name="normal">Normal</string>
+    <string name="personal_references">PERSONAL REFERENCES</string>
+    <string name="name1">Name:</string>
+    <string name="name2">Name</string>
+    <string name="charge">Charge:</string>
+    <string name="name3">Name</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="mobile_number">Mobile number:</string>
+    <string name="employment_references">EMPLOYMENT REFERENCES</string>
+    <string name="name4">Name:</string>
+    <string name="name5">Name</string>
+    <string name="company_name">Company name:</string>
+    <string name="name6">Name</string>
+    <string name="mobile_number1">Mobile number:</string>
+    <string name="third_tab">third tab</string>
+    <string name="library">LIBRARY</string>
+    <string name="texto">My virtual bookstore</string>
+</resources>

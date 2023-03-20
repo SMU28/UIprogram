@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenido</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="id_identification">Numero Identificacion</string>
+    <string name="second_tab">Segunda pestaña</string>
+    <string name="choose_the_font_size">Elija el tamaño de letra</string>
+    <string name="hobbies">"Pasatiempos "</string>
+    <string name="swim">Nadar</string>
+    <string name="soccer">Futbol</string>
+    <string name="games">Juegos</string>
+    <string name="dance">Danza</string>
+    <string name="sing">Cantar</string>
+    <string name="read">Leer</string>
+    <string name="enlarge">Ampliar</string>
+    <string name="color">Color</string>
+    <string name="disable_color">Desactivar color</string>
+    <string name="medium">Mediano</string>
+    <string name="normal">Normal</string>
+    <string name="personal_references">REFERENCIAS PERSONALES</string>
+    <string name="name1">Nombre</string>
+    <string name="name2">Nombre</string>
+    <string name="charge">Cargo</string>
+    <string name="name3">Nombre</string>
+    <string name="e_mail">Correo electronico</string>
+    <string name="mobile_number">Numero celular</string>
+    <string name="employment_references">REFERENCIAS LABORALES</string>
+    <string name="name4">Nombre</string>
+    <string name="name5">Nombre</string>
+    <string name="company_name">Nombre empresa</string>
+    <string name="name6">Nombre</string>
+    <string name="mobile_number1">Numero celular</string>
+    <string name="third_tab">Tercera pestaña</string>
+    <string name="library">Libreria</string>
+    <string name="texto">"Mi tienda virtual de libros "</string>
+</resources>
